@@ -1,0 +1,239 @@
+[33mcommit 93a1b87772d9fa2f0b27cd9390c9c848555b7e50[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: marklovejoy <marklovejoydev@gmail.com>
+Date:   Fri May 24 19:32:22 2024 +0100
+
+    added functionality to Announcement class with exmaples of multiple functions
+
+[33mcommit 0c70540ff68ee12a2d25f24ac15a532c06d9eabf[m
+Author: marklovejoy <marklovejoydev@gmail.com>
+Date:   Fri May 24 12:06:52 2024 +0100
+
+    inital java commit
+
+[33mcommit 26d2260b5c88405a4e8e1fddc42df12634b2532d[m
+Author: Neil Studd <neil.studd@makers.tech>
+Date:   Wed Mar 6 13:38:29 2024 +0000
+
+    [SLUG] Transferring changes from Slug as of 2024-03-06 13:38:24 +0000.
+
+[33mcommit 8157f217ed57bcdc07b581d269d3ccebea873b83[m
+Author: Neil Studd <neil.studd@makers.tech>
+Date:   Mon Jan 15 21:42:00 2024 +0000
+
+    [SLUG] Transferring changes from Slug as of 2024-01-15 21:41:55 +0000.
+
+[33mcommit 13e989516bb975a0f4e60acd41fab2b5acc84f94[m
+Author: Paul Gilson <paul.gilson@makers.tech>
+Date:   Mon Nov 6 16:43:56 2023 +0000
+
+    [SLUG] Transferring changes from Slug as of 2023-11-06 16:43:51 +0000.
+
+[33mcommit 87673f389bf0ead1cfa942d2ebdcdb929e399a09[m
+Author: Paul Gilson <paul.gilson@makers.tech>
+Date:   Tue Oct 24 17:34:03 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-10-24 17:33:57 +0100.
+
+[33mcommit a14fff6457d5c8aa5122e995ff3aa4fc6d2da075[m
+Author: Neil Studd <neil.studd@makers.tech>
+Date:   Fri Sep 22 08:37:55 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-09-22 08:37:50 +0100.
+
+[33mcommit b3b75b51730ce495b2a0cf0f2042a3d156d16637[m
+Author: Neil Studd <neil.studd@makers.tech>
+Date:   Mon Sep 18 16:30:42 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-09-18 16:30:38 +0100.
+
+[33mcommit acadd0d5e3ece40a06a85895ef61da5f400c719d[m
+Author: Paul Gilson <paul.gilson@makers.tech>
+Date:   Wed Jul 19 11:19:41 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-07-19 11:19:36 +0100.
+
+[33mcommit 95e7e4854cf4f249e990474b2f017712c0f8c2e3[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Wed Jul 5 17:03:26 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-07-05 17:03:17 +0100.
+
+[33mcommit 4bd296fb5ce5ec6b169d027889cdea021cc7c15d[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Mon Apr 17 14:36:27 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-17 14:36:21 +0100.
+
+[33mcommit 00c668892acc173385696b2b9622b4b60b24fde2[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Mon Apr 17 13:50:08 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-17 13:50:01 +0100.
+
+[33mcommit 17d6b28658b09e4950fdc223b8bd9b85c250fecc[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Mon Apr 17 13:43:40 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-17 13:43:25 +0100.
+
+[33mcommit da754bf4d9ee961f10660cb63c39e610f01c63d8[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Mon Apr 10 21:42:50 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-10 21:42:44 +0100.
+
+[33mcommit 33bc3ad16f26d52b0adac96307a9a087222b441d[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Mon Apr 10 21:31:38 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-10 21:31:32 +0100.
+
+[33mcommit 97d67776ead77c3bf063abe9a80fdf1687009835[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Mon Apr 10 21:29:58 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-10 21:29:52 +0100.
+
+[33mcommit 7f2b15fdfc44817c72df37e412c97f3ccbeca61f[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Mon Apr 10 21:19:25 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-10 21:19:19 +0100.
+
+[33mcommit 2e0c1a4f3843ee1286af4e997c8cfc7957341602[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Sun Apr 9 20:24:58 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-09 20:24:44 +0100.
+
+[33mcommit 8043f8d01b6dd8055e177bb9fab13c4bd91a99c2[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Fri Apr 7 22:59:53 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-07 22:59:48 +0100.
+
+[33mcommit cef8ca42d7205d8c484474656218a1561b5103de[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Fri Apr 7 22:56:47 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-07 22:56:31 +0100.
+
+[33mcommit d1df74254b293a3f395f05ca302b61a4b5c2fa01[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Fri Apr 7 15:15:39 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-07 15:15:30 +0100.
+
+[33mcommit fa0ca50208e0623770d201889a383f29f48ad7c5[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Fri Apr 7 15:13:01 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-07 15:12:54 +0100.
+
+[33mcommit 458964197ffc2899c9c4d36b61e294dbbe7fd688[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Thu Apr 6 15:43:23 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-06 15:43:18 +0100.
+
+[33mcommit ab5f380a7ea6b8035ed83c46df203cef4317cffe[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Thu Apr 6 15:31:36 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-04-06 15:31:29 +0100.
+
+[33mcommit 2dbe25edac20efd0cc0c7944aff1d896c5efc65c[m
+Author: Edward Andress <eddie_andress@hotmail.com>
+Date:   Mon Mar 27 11:56:42 2023 +0100
+
+    [SLUG] Transferring changes from Slug as of 2023-03-27 11:56:30 +0100.
+
+[33mcommit 70a0478898147a4525b768765ab7a94fac4bf756[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Fri Jan 6 14:26:05 2023 +0000
+
+    [SLUG] Transferring changes from Slug as of 2023-01-06 14:25:54 +0000.
+
+[33mcommit e6d403482953ccd236562c9aa01eb05290c1beab[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Fri Jan 6 14:24:15 2023 +0000
+
+    [SLUG] Transferring changes from Slug as of 2023-01-06 14:24:03 +0000.
+
+[33mcommit 7e848f833a0d077e3554f65bd1d28674ec83d899[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Fri Jan 6 14:20:38 2023 +0000
+
+    [SLUG] Transferring changes from Slug as of 2023-01-06 14:20:27 +0000.
+
+[33mcommit 9c6658124bb565f203da61b76446d8274c787f57[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Wed Jan 4 16:25:36 2023 +0000
+
+    [SLUG] Transferring changes from Slug as of 2023-01-04 16:25:24 +0000.
+
+[33mcommit 48bc8f11521a0572691dabb2aae1e253456147c0[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Wed Jan 4 16:23:39 2023 +0000
+
+    [SLUG] Transferring changes from Slug as of 2023-01-04 16:23:27 +0000.
+
+[33mcommit 3e9a80189388dd0eb293221244e24a068dcbd281[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Mon Jan 2 13:08:27 2023 +0000
+
+    [SLUG] Transferring changes from Slug as of 2023-01-02 13:08:07 +0000.
+
+[33mcommit 9737d11684b9ceeb1860545af7ac23c1d0c5eeaf[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Mon Jan 2 09:31:17 2023 +0000
+
+    [SLUG] Transferring changes from Slug as of 2023-01-02 09:31:05 +0000.
+
+[33mcommit 3a8f892ff3937e4eaa9ae1c0f196b4661b8bb6e3[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Mon Jan 2 09:26:02 2023 +0000
+
+    [SLUG] Transferring changes from Slug as of 2023-01-02 09:25:50 +0000.
+
+[33mcommit 51813364a2ee2dd58771730cd03a2a7f155b7434[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Mon Dec 12 08:57:13 2022 +0000
+
+    [SLUG] Transferring changes from Slug as of 2022-12-12 08:57:01 +0000.
+
+[33mcommit 344ebdef2b07cc5fd0f5ee4e966716bbe9e36124[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Tue Dec 6 11:16:45 2022 +0000
+
+    [SLUG] Transferring changes from Slug as of 2022-12-06 11:16:34 +0000.
+
+[33mcommit f8e68aabcbc1bb187db5e2bcf45c151c1089ba66[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Tue Dec 6 10:36:33 2022 +0000
+
+    [SLUG] Transferring changes from Slug as of 2022-12-06 10:36:21 +0000.
+
+[33mcommit 892658166cc17430a7aabb2319590d9f44b5c0ad[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Mon Dec 5 15:38:47 2022 +0000
+
+    [SLUG] Transferring changes from Slug as of 2022-12-05 15:38:36 +0000.
+
+[33mcommit 78e7638726231aee7aa366ebe2184c5a3e7e7386[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Fri Dec 2 16:47:39 2022 +0000
+
+    [SLUG] Transferring changes from Slug as of 2022-12-02 16:47:27 +0000.
+
+[33mcommit 3649a1ecc21b12743b0644039b05ef2e3eae35c7[m
+Author: Neil Studd <github@neilstudd.com>
+Date:   Fri Dec 2 16:41:51 2022 +0000
+
+    [SLUG] Transferring changes from Slug as of 2022-12-02 16:41:41 +0000.
+
+[33mcommit d485a3bdeb31f2ccd8408aa6c48219e61046f21d[m
+Author: Kay Lack <kay@makers.tech>
+Date:   Sun Nov 13 14:29:53 2022 +0000
+
+    [SLUG] Transferring changes from Slug as of 2022-11-13 14:29:41 +0000.
