@@ -1,4 +1,4 @@
 package bites.examples;
 
-public class Dicounter {
+public class ScratchPad {
 }

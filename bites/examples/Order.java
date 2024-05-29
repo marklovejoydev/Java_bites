@@ -21,7 +21,11 @@ public class Order {
         Order order = new Order();
         order.addAmount(10);
         order.addDiscount(1);
-        Integer total = order.getTotal();
-        System.out.println(total);
+        String friendlyTotal = order.friendlyTotal();
+        System.out.println(friendlyTotal);
+    }
+
+    private String friendlyTotal() {
+        return String.format("Thanks! The total value of the oder is £%d", this.total);
     }
 }
